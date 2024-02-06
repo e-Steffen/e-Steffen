@@ -21,8 +21,8 @@
 
 ##### Make sure to visit: 
 
-[GitHub-Profile](https://e-steffen.github.io/my-portfolio/) <br> 
-[LinkedIn-Profile](https://www.linkedin.com/in/steffen-zierold/) <br>
+[GitHub-Profile](https://e-steffen.github.io/my-portfolio/?target=_blank) <br> 
+[LinkedIn-Profile](https://www.linkedin.com/in/steffen-zierold/?target=_blank)<br>
 
 ---
 <a href="mailto:steffen.zierold@outlook.com" title="send me an eMail"><img src="https://e-steffen.github.io/my-portfolio/img/mail%2032.png" alt="Mail-Icon"></a>
