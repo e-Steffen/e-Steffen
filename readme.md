@@ -9,7 +9,7 @@
   </a>
 
 
-#### I'm just starting in coding with a web-dev bootcamp by neue fische, this includes 📚 :  
+#### I'm just starting in coding with a web-dev bootcamp by neue fische, which includes the following 📚 :  
 - `git and github`
 - `markdown`
 - `HTML`
@@ -21,8 +21,8 @@
 
 ##### Make sure to visit: 
 
-[GitHub-Profile](https://e-steffen.github.io/my-portfolio/?target=_blank) <br> 
-[LinkedIn-Profile](https://www.linkedin.com/in/steffen-zierold/?target=_blank)<br>
+[GitHub-Profile](https://e-steffen.github.io/my-portfolio/) <br> 
+[LinkedIn-Profile](https://www.linkedin.com/in/steffen-zierold/)
 
 ---
 <a href="mailto:steffen.zierold@outlook.com" title="send me an eMail"><img src="https://e-steffen.github.io/my-portfolio/img/mail%2032.png" alt="Mail-Icon"></a>
