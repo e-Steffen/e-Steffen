@@ -25,5 +25,5 @@
 [LinkedIn-Profile](https://www.linkedin.com/in/steffen-zierold/) <br>
 
 ---
-
+<a href="mailto:steffen.zierold@outlook.com" title="send me an eMail"><img src="https://e-steffen.github.io/my-portfolio/img/mail%2032.png" alt="Mail-Icon"></a>
 
