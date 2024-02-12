@@ -20,5 +20,5 @@
 
 ------
 
-<a href="https://e-steffen.github.io/my-portfolio/" target="_blank" rel="noopener noreferrer" title="GitHub-Portfolio of Steffen"><img src="https://raw.githubusercontent.com/e-Steffen/my-portfolio/main/img/github-mark.png" height="30px"></a> <a href="https://www.linkedin.com/in/steffen-zierold/" target="_blank" rel="oopener noreferrer" title="LinkedIn-Profle of Steffen"><img src="https://raw.githubusercontent.com/e-Steffen/my-portfolio/main/img/LinkedIn-Logos/LinkedIn-Logos/LI-In-Bug.png" height="30px"></a> <a href="mailto:steffen.zierold@outlook.com" title="send me an eMail"><img src="https://e-steffen.github.io/my-portfolio/img/mail%2032.png" alt="Mail-Icon"></a>
+<a href="https://e-steffen.github.io/my-portfolio/" title="GitHub-Portfolio of Steffen"><img src="https://raw.githubusercontent.com/e-Steffen/my-portfolio/main/img/github-mark.png" height="30px"></a> <a href="https://www.linkedin.com/in/steffen-zierold/" title="LinkedIn-Profle of Steffen"><img src="https://raw.githubusercontent.com/e-Steffen/my-portfolio/main/img/LinkedIn-Logos/LinkedIn-Logos/LI-In-Bug.png" height="30px"></a> <a href="mailto:steffen.zierold@outlook.com" title="send me an eMail"><img src="https://e-steffen.github.io/my-portfolio/img/mail%2032.png" alt="Mail-Icon"></a>
 
