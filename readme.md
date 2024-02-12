@@ -1,6 +1,5 @@
 # `Hello World!` Welcome to my GitHub-Profile 
 
-<img height="192" src="https://e-steffen.github.io/my-portfolio/img/pic-me.jpg">
   <a href="https://github.com/e-steffen">
     <img src="https://komarev.com/ghpvc/?username=e-steffen" alt="page views">
   </a>
